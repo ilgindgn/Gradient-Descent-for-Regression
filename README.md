@@ -1,4 +1,4 @@
-# Gradient-Descent-from-Scratch
+# Gradient-Descent-for-Regression
 
 This project performs Logistics Regression and Linear Regression using the [Boston Housing Prices Data Set](). 
 
