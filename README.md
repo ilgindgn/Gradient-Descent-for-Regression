@@ -1,6 +1,6 @@
 # Gradient-Descent-for-Regression
 
-This project performs Logistics Regression and Linear Regression using the [Boston Housing Prices Data Set](). 
+This project performs Logistics Regression and Linear Regression using the [Boston Housing Prices Data Set](https://www.kellogg.northwestern.edu/faculty/weber/emp/_session_3/boston.htm). 
 
 Those regression methods are implemented using: 
 
